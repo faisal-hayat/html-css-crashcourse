@@ -800,7 +800,7 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
-node_modules/
+node_modules/*
 # JetBrains Rider
 *.sln.iml
 
