@@ -7,6 +7,7 @@
 
 ```shell
 npm install bootsrap
+npm i bootstrap-icons
 ```
 - provdie link to minify **_js and css_** files paths
 
