@@ -10,12 +10,4 @@ npm install bootsrap
 npm i bootstrap-icons
 ```
 
-- provdie link to minify **_js and css_** files paths
-
---- ---
-
-## Responsive Web Development
-
-- **_bootstrap_** helps us to build responsive web apps
-
 --- ---
